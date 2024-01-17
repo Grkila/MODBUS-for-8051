@@ -1,0 +1,86 @@
+<mxfile host="app.diagrams.net" modified="2024-01-15T11:39:07.120Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="Uv_WUcRJhiZ2nin0V9Ha" version="22.1.18" type="device">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1282" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="R5baq13OL3YrWRS--SIH-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R5baq13OL3YrWRS--SIH-0" target="R5baq13OL3YrWRS--SIH-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="205" y="300" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R5baq13OL3YrWRS--SIH-16" value="DA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="R5baq13OL3YrWRS--SIH-2">
+          <mxGeometry x="-0.016" y="4" relative="1" as="geometry">
+            <mxPoint x="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R5baq13OL3YrWRS--SIH-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R5baq13OL3YrWRS--SIH-0" target="R5baq13OL3YrWRS--SIH-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="220" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R5baq13OL3YrWRS--SIH-20" value="NE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="R5baq13OL3YrWRS--SIH-18">
+          <mxGeometry x="-0.4354" y="3" relative="1" as="geometry">
+            <mxPoint x="1" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R5baq13OL3YrWRS--SIH-0" value="Adresa u poruci&lt;br&gt;==&lt;br&gt;Adresa jedinice" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="120" width="170" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="R5baq13OL3YrWRS--SIH-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R5baq13OL3YrWRS--SIH-1" target="R5baq13OL3YrWRS--SIH-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R5baq13OL3YrWRS--SIH-1" value="Izračunaj LRC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="145" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R5baq13OL3YrWRS--SIH-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R5baq13OL3YrWRS--SIH-3" target="R5baq13OL3YrWRS--SIH-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R5baq13OL3YrWRS--SIH-15" value="DA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="R5baq13OL3YrWRS--SIH-6">
+          <mxGeometry x="-0.105" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R5baq13OL3YrWRS--SIH-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R5baq13OL3YrWRS--SIH-3" target="R5baq13OL3YrWRS--SIH-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R5baq13OL3YrWRS--SIH-22" value="NE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="R5baq13OL3YrWRS--SIH-19">
+          <mxGeometry x="-0.4836" y="-4" relative="1" as="geometry">
+            <mxPoint x="26" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R5baq13OL3YrWRS--SIH-3" value="Izračunati LRC&lt;br&gt;==&lt;br&gt;LRC u poruci" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="137.5" y="450" width="135" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="R5baq13OL3YrWRS--SIH-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R5baq13OL3YrWRS--SIH-5" target="R5baq13OL3YrWRS--SIH-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R5baq13OL3YrWRS--SIH-13" value="DA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="R5baq13OL3YrWRS--SIH-12">
+          <mxGeometry x="-0.1631" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R5baq13OL3YrWRS--SIH-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="R5baq13OL3YrWRS--SIH-5" target="R5baq13OL3YrWRS--SIH-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R5baq13OL3YrWRS--SIH-25" value="NE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="R5baq13OL3YrWRS--SIH-24">
+          <mxGeometry x="-0.1725" y="-4" relative="1" as="geometry">
+            <mxPoint x="9" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R5baq13OL3YrWRS--SIH-5" value="Postojji tražena funkcija" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="137.5" y="650" width="135" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="R5baq13OL3YrWRS--SIH-11" value="Pozovi funckiju" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="145" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R5baq13OL3YrWRS--SIH-17" value="Odbaci poruku" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="390" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R5baq13OL3YrWRS--SIH-23" value="Pošaljji poruku da je tražena nepostojeća funkcija" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
